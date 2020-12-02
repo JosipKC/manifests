@@ -2,7 +2,8 @@
 <manifest>
   <project name="JosipKC/android_device_samsung_x1s" path="device/samsung/x1s" remote="github" revision="lineage-17.1" />
   <project name="JosipKC/android_device_samsung_universal9830-common" path="device/samsung/universal9830-common" remote="github" revision="lineage-17.1" />
-  <project name="JosipKC/x1s_stock_exp" path="kernel/samsung/universal9830" remote="github" revision="stock_update" />
+  <project name="JosipKC/android_kernel_samsung_universal9830" path="kernel/samsung/universal9830" remote="github" revision="lineage-17.1-experimental" />
+  <project name="JosipKC/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-17.1" />
   <project name="lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project path="device/samsung_slsi/sepolicy" remote="github" name="LineageOS/android_device_samsung_slsi_sepolicy" />
 </manifest>
