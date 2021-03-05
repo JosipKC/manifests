@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Exynoobs/android_device_samsung_exynos990-common" path="device/samsung/exynos990-common" remote="github" revision="refs/heads/lineage-18.1" />
+  <project name="Exynoobs/android_device_samsung_x1s" path="device/samsung/x1s" remote="github" revision="lineage-18.1" />
+  <project name="Exynoobs/android_device_samsung_y2s" path="device/samsung/y2s" remote="github" />
+  <project name="Exynoobs/android_device_samsung_z3s" path="device/samsung/z3s" remote="github" />
+  <project name="Exynoobs/android_kernel_samsung_exynos990" path="kernel/samsung/exynos990" revision="lineage-18.1" />
+  <project name="Exynoobs/proprietary_vendor_samsung_x1s" path="vendor/samsung/x1s" remote="github" />
+  <project name="Exynoobs/proprietary_vendor_samsung_y2s" path="vendor/samsung/y2s" remote="github" />
+  <project name="Exynoobs/proprietary_vendor_samsung_z3s" path="vendor/samsung/z3s" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
+  <project path="device/samsung_slsi/sepolicy" remote="github" name="LineageOS/android_device_samsung_slsi_sepolicy" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi_libbt" path="hardware/samsung_slsi/libbt" />
+	  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" />
+	  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" />
+  <!--project name="josip-k/android_device_realme_RMX199X" path="device/realme/RMX199X" remote="github" revision="lineage-18.1" /-->
+  <!--project name="josip-k/android_kernel_realme_sm6150" path="kernel/realme/sm6150" remote="github" revision="android-11.0.0" /-->
+  <project name="Exynoobs/android_device_samsung_starlte" path="device/samsung/starlte" remote="private" revision="lineage-18.1" />
+  <project name="Exynoobs/android_kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" remote="private" revision="lineage-18.1" />
+  <project name="Exynoobs/android_device_samsung_exynos9810-common" path="device/samsung/exynos9810-common" remote="private" revision="lineage-18.1" />
+  <project name="Exynoobs/proprietary_vendor_samsung_starlte" path="vendor/samsung/starlte" remote="private" revision="lineage-18.1" />
+  <project name="Exynoobs/android_device_samsung_a51" path="device/samsung/a51" remote="private" revision="lineage-18.1" />
+  <project name="Exynoobs/android_device_samsung_exynos9611-common" path="device/samsung/exynos9611-common" remote="private" revision="lineage-18.1-clean" />
+  <project name="Exynoobs/android_kernel_samsung_exynos9611" path="kernel/samsung/exynos9611" remote="private" revision="lineage-18.1" />
+  <project name="Exynoobs/proprietary_vendor_samsung_a51" path="vendor/samsung/a51" remote="private" revision="lineage-18.1" />
+</manifest>
